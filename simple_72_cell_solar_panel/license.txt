@@ -1,0 +1,11 @@
+Model Information:
+* title:	Simple 72 Cell Solar Panel
+* source:	https://sketchfab.com/3d-models/simple-72-cell-solar-panel-a969548b7e3643f59bad10c7dd18199c
+* author:	MechanicalOnion (https://sketchfab.com/kambu_ch)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Simple 72 Cell Solar Panel" (https://sketchfab.com/3d-models/simple-72-cell-solar-panel-a969548b7e3643f59bad10c7dd18199c) by MechanicalOnion (https://sketchfab.com/kambu_ch) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
